@@ -1,1 +1,5 @@
-node_modules
+node_modules/
+[submodule "node_modules/.cache/gh-pages/https!github.com!KelvinMir!Registro-Vendas.git"]
+    path = node_modules/.cache/gh-pages/https!github.com!KelvinMir!Registro-Vendas.git
+    url = https://github.com/KelvinMir/Registro-Vendas.git
+
