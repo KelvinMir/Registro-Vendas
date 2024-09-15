@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 
 
+
 function App() {
   const [sales, setSales] = useState([]);
   const [formData, setFormData] = useState({
