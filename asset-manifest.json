@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KelvinMir/Registro-Vendas.git/static/css/main.a95189bc.css",
-    "main.js": "/KelvinMir/Registro-Vendas.git/static/js/main.a9efcf7d.js",
+    "main.js": "/KelvinMir/Registro-Vendas.git/static/js/main.1e4d6277.js",
     "static/js/453.9217adcb.chunk.js": "/KelvinMir/Registro-Vendas.git/static/js/453.9217adcb.chunk.js",
     "index.html": "/KelvinMir/Registro-Vendas.git/index.html",
     "main.a95189bc.css.map": "/KelvinMir/Registro-Vendas.git/static/css/main.a95189bc.css.map",
-    "main.a9efcf7d.js.map": "/KelvinMir/Registro-Vendas.git/static/js/main.a9efcf7d.js.map",
+    "main.1e4d6277.js.map": "/KelvinMir/Registro-Vendas.git/static/js/main.1e4d6277.js.map",
     "453.9217adcb.chunk.js.map": "/KelvinMir/Registro-Vendas.git/static/js/453.9217adcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a95189bc.css",
-    "static/js/main.a9efcf7d.js"
+    "static/js/main.1e4d6277.js"
   ]
 }
