@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Registro-Vendas/static/css/main.a95189bc.css",
+    "main.js": "/Registro-Vendas/static/js/main.dfc59641.js",
+    "static/js/453.9217adcb.chunk.js": "/Registro-Vendas/static/js/453.9217adcb.chunk.js",
+    "index.html": "/Registro-Vendas/index.html",
+    "main.a95189bc.css.map": "/Registro-Vendas/static/css/main.a95189bc.css.map",
+    "main.dfc59641.js.map": "/Registro-Vendas/static/js/main.dfc59641.js.map",
+    "453.9217adcb.chunk.js.map": "/Registro-Vendas/static/js/453.9217adcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95189bc.css",
+    "static/js/main.dfc59641.js"
+  ]
+}
